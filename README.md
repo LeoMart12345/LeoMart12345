@@ -2,7 +2,7 @@
 
 🎓 Final year Computer Science student from Ireland 🇮🇪  
 💻 Passionate about low-level programming and how things work under the hood  
-🔧 Currently diving deep into **C++** 
+🔧 Currently diving deep into **C++**  
 📈 Interested in **high-performance systems** and **financial technology**  
 
 ---
@@ -19,8 +19,6 @@
 
 - High-frequency & algorithmic trading systems  
 - Low-latency C++ and performance optimization  
-- Memory layout, cache efficiency & lock-free programming  
-- Building financial infrastructure that runs at the speed of the market  
 
 ---
 

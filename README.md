@@ -17,11 +17,4 @@
 ### ⚡ Interests
 
 - High-frequency & algorithmic trading systems  
-- Low-latency C++ and performance optimization  
-
----
-
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoMart12345&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=LeoMart12345)
+- Low-latency C++ and performance optimization

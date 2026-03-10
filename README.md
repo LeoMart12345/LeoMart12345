@@ -2,7 +2,7 @@
 
 🎓 Final year Computer Science student from Ireland 🇮🇪  
 💻 Passionate about low-level programming and how things work under the hood  
-🔧 Currently diving deep into **C++**  
+🔧 Currently doing a deep dive into **C++**  
 📈 Interested in **high-performance systems** and **financial technology**  
 
 ---

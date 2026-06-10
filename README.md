@@ -1,8 +1,8 @@
 ## Hi there, I'm Leo 👋
 
-🇮🇪  from Ireland 
-🎓 Bachelor's degree in CS (university of Galway, Ireland)
-currently persuing a Masters in high performance computing (University of Edinburgh)
+🇮🇪 from Ireland  
+🎓 Bachelor's degree in CS (University of Galway, Ireland)  
+Currently pursuing a Master's in High Performance Computing (University of Edinburgh)  
 💻 Passionate about low-level programming and how things work under the hood  
 🔧 Currently doing a deep dive into **C++**  
 📈 Interested in **high-performance systems** and **financial technology**  
@@ -18,6 +18,6 @@ currently persuing a Masters in high performance computing (University of Edinbu
 
 ### ⚡ Interests
 
-- Computer architecture
-- Low-latency C++ and performance optimization
+- Computer architecture  
+- Low-latency C++ and performance optimization  
 - High-frequency & algorithmic trading systems

@@ -4,7 +4,7 @@
 🎓 Bachelor's degree in CS (University of Galway, Ireland)  
 Currently pursuing a Master's in High Performance Computing (University of Edinburgh)  
 Passionate about low-level programming and how things work under the hood  
-Currently doing a deep dive into **C++** , computer architecture, and compilers
+Currently doing a deep dive into **C++** , computer architecture, compilers and HPC in general
 Interested in **high-performance systems** and **financial technology**  
 
 ---

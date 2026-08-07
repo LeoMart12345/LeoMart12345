@@ -1,8 +1,8 @@
 ## Hi there, I'm Leo 👋
 
 🇮🇪 From Ireland  
-🎓 Bachelor's degree in CS — University of Galway, Ireland  
-Currently pursuing an MSc in High Performance Computing — University of Edinburgh (EPCC)  
+🎓 Bachelor's degree in CS: University of Galway, Ireland  
+Currently pursuing an MSc in High Performance Computing: University of Edinburgh (EPCC)  
 Passionate about low-level programming and how things work under the hood  
 Currently deep-diving into **C++**, computer architecture, compilers, and HPC in general  
 Interested in **high-performance systems** and **financial technology**

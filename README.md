@@ -1,11 +1,13 @@
 ## Hi there, I'm Leo 👋
 
-🇮🇪 from Ireland  
-🎓 Bachelor's degree in CS (University of Galway, Ireland)  
-Currently pursuing a Master's in High Performance Computing (University of Edinburgh)  
+🇮🇪 From Ireland  
+🎓 Bachelor's degree in CS — University of Galway, Ireland  
+Currently pursuing an MSc in High Performance Computing — University of Edinburgh (EPCC)  
 Passionate about low-level programming and how things work under the hood  
-Currently doing a deep dive into **C++** , computer architecture, compilers and HPC in general
-Interested in **high-performance systems** and **financial technology**  
+Currently deep-diving into **C++**, computer architecture, compilers, and HPC in general  
+Interested in **high-performance systems** and **financial technology**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/leo-cope-martinez-048551263/)
 
 ---
 
@@ -18,6 +20,6 @@ Interested in **high-performance systems** and **financial technology**
 
 ### ⚡ Interests
 
-- Computer architecture  
-- Low-latency C++ and performance optimization  
+- Computer architecture
+- Low-latency C++ and performance optimization
 - High-frequency & algorithmic trading systems

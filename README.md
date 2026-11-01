@@ -23,3 +23,5 @@ Interested in **high-performance systems** and **financial technology**
 - Computer architecture
 - Low-latency C++ and performance optimization
 - High-frequency & algorithmic trading systems
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
